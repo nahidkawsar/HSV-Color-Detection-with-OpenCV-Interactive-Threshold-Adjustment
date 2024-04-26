@@ -9,7 +9,7 @@ This Python script detects colors in a live video stream using HSV (Hue, Saturat
 ## Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/your_username/screen-recording-python.git
+git clone:[ https://github.com/your_username/screen-recording-python.git](https://github.com/nahidkawsar/HSV-Color-Detection-with-OpenCV-Interactive-Threshold-Adjustment/blob/main/Object%20detection%20using%20HSV%20color%20space%20in%20Live%20Video.ipynb)
 
 
 ## Usage
